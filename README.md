@@ -1,6 +1,6 @@
 # No Feedback
 
-This disables all server command chat feedback.
+This mod disables all server command chat feedback.
 
 # Installing
 
